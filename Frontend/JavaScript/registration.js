@@ -1,14 +1,3 @@
-/* ============================================================
-   registration.js
-   Registration page only (registration.php). Requires
-   common.js loaded first (dropdowns, modal helper,
-   showAdminNotice).
-============================================================ */
-
-/* ============================================================
-   Scholar Registration Requests
-============================================================ */
-
 const registrationTableBody = document.getElementById("registrationTableBody");
 const registrationSearch = document.getElementById("registrationSearch");
 const registrationFilterMenu = document.getElementById("registrationFilterMenu");

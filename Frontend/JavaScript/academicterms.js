@@ -1,9 +1,3 @@
-/* ============================================================
-   academicterms.js
-   Academic Terms page only (academicterm.php).
-   Requires common.js loaded first (modal helper,
-   showAdminNotice).
-============================================================ */
 
 const termsTableBody = document.getElementById("termsTableBody");
 const activeTermCountBadge = document.getElementById("activeTermCountBadge");

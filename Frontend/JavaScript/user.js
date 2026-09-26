@@ -1,9 +1,3 @@
-/* ============================================================
-   user.js
-   Users page only (user.php). Requires common.js
-   loaded first (dropdowns, modal helper, showAdminNotice).
-============================================================ */
-
 const usersTableBody = document.getElementById("usersTableBody");
 const userSearch = document.getElementById("userSearch");
 const userFilterMenu = document.getElementById("userFilterMenu");

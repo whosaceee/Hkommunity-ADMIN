@@ -1,10 +1,3 @@
-/* ============================================================
-   adminactivity.js
-   Account Activity page only (activities.php). Read-only
-   system log — search and role filter, no row actions.
-   Requires common.js loaded first.
-============================================================ */
-
 const activityTableBody = document.getElementById("activityTableBody");
 const activitySearch = document.getElementById("activitySearch");
 const activityFilterMenu = document.getElementById("activityFilterMenu");

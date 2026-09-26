@@ -1,13 +1,3 @@
-/* ============================================================
-   dutyrecords.js
-   Duty Records page only (dutyrecords.php). Requires common.js
-   loaded first (modal helper, showAdminNotice).
-
-   Table only shows Student ID, Date, Duty Type, Hours and Year
-   Level. Clicking a row opens a modal with the rest of the
-   record (Name, Created, Updated).
-============================================================ */
-
 const dutyTableBody = document.getElementById("dutyTableBody");
 const dutyEmptyRow = document.getElementById("dutyEmptyRow");
 const dutySearch = document.getElementById("dutySearch");

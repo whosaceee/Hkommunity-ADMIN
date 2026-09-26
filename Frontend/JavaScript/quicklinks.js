@@ -1,9 +1,3 @@
-/* ============================================================
-   quicklinks.js
-   Quick Links page only (quicklinks.php). Requires common.js
-   loaded first (modal helper, showAdminNotice, todayFormatted).
-============================================================ */
-
 const quicklinksTableBody = document.getElementById("quicklinksTableBody");
 const quicklinksEmptyRow = document.getElementById("quicklinksEmptyRow");
 

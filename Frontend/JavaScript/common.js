@@ -1,10 +1,3 @@
-/* ============================================================
-   common.js
-   Shared across every admin page (sidebar, topbar dropdowns,
-   term selector, modal helper). Load this before any
-   page-specific admin script.
-============================================================ */
-
 /* ---------- Shared date helper ---------- */
 
 function todayFormatted() {

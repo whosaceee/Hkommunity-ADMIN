@@ -1,9 +1,3 @@
-/* ============================================================
-   requirements.js
-   Requirements page only (requirements.php). Requires
-   common.js loaded first (modal helper, showAdminNotice).
-============================================================ */
-
 const requirementsTableBody = document.getElementById("requirementsTableBody");
 const requirementsEmptyRow = document.getElementById("requirementsEmptyRow");
 
